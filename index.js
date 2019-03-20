@@ -7,5 +7,5 @@ var nestedTarget = () => {
 };
 
 var deepestChild = () => {
-  
+  selector = querySelectorAll()
 };
