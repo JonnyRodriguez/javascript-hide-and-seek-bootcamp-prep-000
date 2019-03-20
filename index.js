@@ -7,5 +7,6 @@ var nestedTarget = () => {
 };
 
 var deepestChild = () => {
-  selector = querySelectorAll()
+  let selector = querySelectorAll("div#grand-node");
+  
 };
